@@ -1,0 +1,2 @@
+Dummy investigation evidence for a Python metadata exercise.
+Case: TRAINING-001. This file contains no real personal information.
